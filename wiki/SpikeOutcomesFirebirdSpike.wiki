@@ -2,10 +2,10 @@
 The goal is to understand better how to create database, insert test data into Firebird DBMS tools
 
 *Technologies, Tools, and Resources used:*
-* FlameRobin 0.7.6
-* Firebird 2.0.1
-* FSQL version 1.5.6
-* Connect to Firebird server available at: http://www.volny.cz/iprenosil/interbase/connect_string.htm
+ * FlameRobin 0.7.6
+ * Firebird 2.0.1
+ * FSQL version 1.5.6
+ * Connect to Firebird server available at: http://www.volny.cz/iprenosil/interbase/connect_string.htm
 •	Quick start guide:
 http://vsbabu.org/mt/archives/2003/05/23/quick_start_firebird_on_windows.html
 
